@@ -1,6 +1,4 @@
-# LeetCode Questions Solutions
 
-This repository contains my solutions to various LeetCode problems, implemented in Python. Each problem is organized in its own folder for easy navigation.
 
 # LeetCode Questions Solutions
 
